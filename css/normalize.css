@@ -20,6 +20,11 @@ body {
   margin: 0;
 }
 
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /* HTML5 display definitions
    ========================================================================== */
 
