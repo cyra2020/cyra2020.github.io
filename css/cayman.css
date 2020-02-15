@@ -64,7 +64,7 @@ a {
   text-align: center;
   background-color: #159957;
   background-size: cover;
-  background-image: url("./banner.jpg"); }
+  background-image: url("./banner1.jpg"); }
   @media screen and (min-width: 64em) {
     .page-header {
       padding: 4rem 6rem; } }
